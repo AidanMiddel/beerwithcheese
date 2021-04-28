@@ -10,6 +10,6 @@ Nikay Klidas
 
 ## Links:
 
-[Trello board](https://trello.com/b/DczdvOOu/bier-en-kaas-webshop)
+[Trello board](https://trello.com/b/DczdvOOu/beer-and-cheese-company)
 
 [Website on MA-Cloud](https://31649.hosts1.ma-cloud.nl/beerandcheesecompany/)
