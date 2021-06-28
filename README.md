@@ -12,4 +12,4 @@ Nikay Klidas
 
 [Trello board](https://trello.com/b/DczdvOOu/beer-and-cheese-company)
 
-[Website on MA-Cloud](https://31649.hosts1.ma-cloud.nl/beerandcheesecompany/)
+[Website on MA-Cloud](https://31853.hosts1.ma-cloud.nl/wordpress)
